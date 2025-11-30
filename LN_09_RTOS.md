@@ -11,13 +11,13 @@
 ![Booting Process Arm](./assets/img/booting_process.png)
 
 > Top Of Stack: Value to initialize the Main Stack Pointer (MSP)
-
+>
 > Value to initialize: the Program Counter (PC)
-
+>
 > SP: Stack Pointer
-
+>
 > LN: Link Register (ตัวเก็บ return address)
-
+>
 > PC: Program Counter (ตัวชี้คำสั่งต่อไป)
 
 เมื่อกดปุ่ม Reset CPU
